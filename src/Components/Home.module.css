@@ -1,0 +1,23 @@
+.main{
+  text-align: center;
+  text-transform: uppercase;
+  font-family: cursive;
+  justify-content: center;
+  font-size: 65px;
+  margin-top: 50px;
+}
+.button{
+  padding: 5px 15px;
+  border: none;
+  background-color: lightgrey;
+  outline: none;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  text-transform: uppercase;
+  justify-content: center;
+}
+.buttondiv{
+  text-align: center;
+  
+}

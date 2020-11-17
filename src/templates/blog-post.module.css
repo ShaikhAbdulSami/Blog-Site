@@ -1,0 +1,25 @@
+.content{
+    max-width: 500px;
+    margin: auto;
+    padding-top: 7%;
+
+   
+}
+.boxbottomshadow {
+	-webkit-box-shadow: 0 8px 6px -6px black;
+	   -moz-box-shadow: 0 8px 6px -6px black;
+	        box-shadow: 0 8px 6px -6px black;
+}
+.title{
+    padding: 10px 10px 10px 10px;
+    font-variant: small-caps;
+}
+.author{
+    padding: 10px 10px 10px 10px;
+}
+.author_title{
+    color: navy;
+}
+.img{
+    margin-bottom: 7%;
+}
